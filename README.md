@@ -16,8 +16,8 @@ This README would normally document the content of the Comvest website.
 
 
 ### Materials Covered Here ###
-- [About the Project](#about)
-- [About The Dataset](#about-dataset)
+- [About the Project](#About-the-Project)
+- [About The Dataset](#About-The-Dataset)
 - [COVID19 PRIMO](#COVID19-PRIMO)
 
 ## About The Project
